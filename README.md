@@ -212,3 +212,18 @@ int main(){
 
 ## Outputs - 
 ### 1- 
+<img width="506" alt="Screenshot 2024-10-21 at 9 10 35 AM" src="https://github.com/user-attachments/assets/a73ab021-66f1-4837-be87-71627c2b8495">
+
+### 2-
+<img width="498" alt="Screenshot 2024-10-21 at 9 10 55 AM" src="https://github.com/user-attachments/assets/e7f633b4-af45-40da-abb8-b831f7d39907">
+
+### 3-
+<img width="499" alt="Screenshot 2024-10-21 at 9 11 11 AM" src="https://github.com/user-attachments/assets/f83696e3-d09c-4978-b5b6-93580c756344">
+
+### 4-
+<img width="490" alt="Screenshot 2024-10-21 at 9 11 40 AM" src="https://github.com/user-attachments/assets/901417e0-2285-465d-a1f0-6b91811ca84f">
+
+## Conclusion 
+A useful object-oriented programming (OOP) technique in C++ is inheritance, which lets a class (also referred to as a derived class) inherit traits and actions (data members and member functions) from another class (referred to as the base class). It encourages flexibility, hierarchical relationships between classes, and reusing code. <BR>
+By extending the functionality of existing classes through inheritance, programmers can create more specialized classes and simplify the maintenance and updating of the code. In C++, inheritance comes in a variety of forms that can be used to meet different design requirements. These include single, multiple, multilevel, hierarchical, and hybrid inheritance.
+
